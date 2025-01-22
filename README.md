@@ -2,11 +2,20 @@
   
 # ⚡ Arnab Bhattacharyya
 
+<div align="center">
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6B76F7&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;ML+Enthusiast;B-Tech+Student" alt="Typing SVG" />
 </p>
 
-> *"I'm not sure how talented I really am, but one thing I know for sure—I work hard and I'm always ready to face any challenge that comes my way."* - *Me*
+
+<div align="center" style="padding: 0 40px;">
+
+> &nbsp;&nbsp;&nbsp;&nbsp; *"I'm not sure how talented I really am, but one thing I know for sure—I work hard and I'm always ready to face any challenge that comes my way."* — *Me* &nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
+</div>
 
 </div>
 
