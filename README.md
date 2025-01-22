@@ -1,3 +1,25 @@
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////       Hi, I'm Arnab!
+         ||    |          \\  ||||//''''|   
+         ||    |           |||||||     _|   
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |==========='
+
+
+
 # Hi, I'm Arnab👋
 I'm Arnab from India and I'm a passionate Web Developer and ML Enthusiast, currently pusing my B-Tech in CSE-AIML, I love exploring cutting-edge technologies and building impactful projects.
 
