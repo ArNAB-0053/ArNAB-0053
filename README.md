@@ -32,29 +32,28 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 </div>
 
 ## 💫 Technologies and Tools
-
 <table>
 <tr>
 <td width="50%">
 
 ### 🎯 Languages
-![C](https://img.shields.io/badge/c-%23171717.svg?style=for-the-badge&logo=c&logoColor=%2300599C)
-![JavaScript](https://img.shields.io/badge/javascript-%23171717.svg?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23171717.svg?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/python-%23171717.svg?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/html5-%23171717.svg?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-%23171717.svg?style=for-the-badge&logo=css3)
-![Java](https://img.shields.io/badge/java-%23171717.svg?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </td>
 <td width="50%">
 
 ### 🛠️ Frameworks & Libraries
-![Next JS](https://img.shields.io/badge/Next-%23171717.svg?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/node.js-%23171717.svg?style=for-the-badge&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23171717.svg?style=for-the-badge&logo=tailwind-css)
-![Flask](https://img.shields.io/badge/flask-%23171717.svg?style=for-the-badge&logo=flask)
-![Express.js](https://img.shields.io/badge/express-%23171717.svg?style=for-the-badge&logo=express)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
 </td>
 </tr>
@@ -62,24 +61,24 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 <td width="50%">
 
 ### 🧠 AI/ML Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23171717.svg?style=for-the-badge&logo=TensorFlow)
-![Keras](https://img.shields.io/badge/Keras-%23171717.svg?style=for-the-badge&logo=Keras)
-![OpenCV](https://img.shields.io/badge/opencv-%23171717.svg?style=for-the-badge&logo=opencv)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23171717.svg?style=for-the-badge&logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/numpy-%23171717.svg?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/pandas-%23171717.svg?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23171717.svg?style=for-the-badge&logo=Matplotlib)
-![SciPy](https://img.shields.io/badge/SciPy-%23171717.svg?style=for-the-badge&logo=scipy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 </td>
 <td width="50%">
 
 ### 🗄️ Databases & Version Control
-![MongoDB](https://img.shields.io/badge/MongoDB-%23171717.svg?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/mysql-%23171717.svg?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/firebase-%23171717.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23171717.svg?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-%23171717.svg?style=for-the-badge&logo=github)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
 </tr>
