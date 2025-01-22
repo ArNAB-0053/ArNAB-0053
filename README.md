@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6B76F7&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;ML+Enthusiast;B-Tech+Student" alt="Typing SVG" />
 </p>
 
-> *Building tomorrow's tech, one commit at a time* 🚀
+> *Code. Innovate. Inspire.* 🚀
 
 </div>
 
