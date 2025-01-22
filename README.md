@@ -63,6 +63,8 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArNAB-0053&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArNAB-0053&theme=aura_dark&hide_border=true)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArNAB-0053&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
