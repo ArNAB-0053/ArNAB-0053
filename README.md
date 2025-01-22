@@ -16,6 +16,7 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://arnab-here.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Connect_on_Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__arnab_bhattacharyya)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnab-bhattacharyya-380966291)
 
@@ -34,6 +35,7 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 
 ### 🛠️ Frameworks & Libraries
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -48,18 +50,18 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-### 🗄️ Databases
+### 🗄️ Databases & Version Control
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Chronicles
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArNAB-0053&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArNAB-0053&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArNAB-0053&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
@@ -69,7 +71,7 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 
 <div align="center">
   
-### 🌟 "Code is poetry written in silence" 🌟
+### 🌟 *"I may not know the extent of my talent, but I know I am a hardworker ready to embrace any challenge that comes my way"* - Arnab Bhattacharyya
 
 <img src="https://komarev.com/ghpvc/?username=ArNAB-0053&label=Profile%20Views&color=6B76F7&style=flat" alt="Profile Views" />
 
