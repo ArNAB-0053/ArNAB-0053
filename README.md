@@ -26,8 +26,8 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://arnab-here.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Connect_on_Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__arnab_bhattacharyya)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnab-bhattacharyya-380966291)
+[![Instagram](https://img.shields.io/badge/Connect_on_Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram)](https://instagram.com/__arnab_bhattacharyya)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arnab-bhattacharyya-380966291)
 
 </div>
 
@@ -39,22 +39,22 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 
 ### 🎯 Languages
 ![C](https://img.shields.io/badge/c-%23171717.svg?style=for-the-badge&logo=c&logoColor=%2300599C)
-![JavaScript](https://img.shields.io/badge/javascript-%23171717.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23171717.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
-![Python](https://img.shields.io/badge/python-%23171717.svg?style=for-the-badge&logo=python&logoColor=%233776AB)
-![HTML5](https://img.shields.io/badge/html5-%23171717.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/css3-%23171717.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
-![Java](https://img.shields.io/badge/java-%23171717.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
+![JavaScript](https://img.shields.io/badge/javascript-%23171717.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23171717.svg?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/python-%23171717.svg?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/html5-%23171717.svg?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-%23171717.svg?style=for-the-badge&logo=css3)
+![Java](https://img.shields.io/badge/java-%23171717.svg?style=for-the-badge&logo=openjdk)
 
 </td>
 <td width="50%">
 
 ### 🛠️ Frameworks & Libraries
-![Next JS](https://img.shields.io/badge/Next-%23171717.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23171717.svg?style=for-the-badge&logo=node.js&logoColor=%236DA55F)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23171717.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
-![Flask](https://img.shields.io/badge/flask-%23171717.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/express-%23171717.svg?style=for-the-badge&logo=express&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-%23171717.svg?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/node.js-%23171717.svg?style=for-the-badge&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23171717.svg?style=for-the-badge&logo=tailwind-css)
+![Flask](https://img.shields.io/badge/flask-%23171717.svg?style=for-the-badge&logo=flask)
+![Express.js](https://img.shields.io/badge/express-%23171717.svg?style=for-the-badge&logo=express)
 
 </td>
 </tr>
@@ -62,24 +62,24 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 <td width="50%">
 
 ### 🧠 AI/ML Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23171717.svg?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00)
-![Keras](https://img.shields.io/badge/Keras-%23171717.svg?style=for-the-badge&logo=Keras&logoColor=%23D00000)
-![OpenCV](https://img.shields.io/badge/opencv-%23171717.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23171717.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E)
-![NumPy](https://img.shields.io/badge/numpy-%23171717.svg?style=for-the-badge&logo=numpy&logoColor=%23013243)
-![Pandas](https://img.shields.io/badge/pandas-%23171717.svg?style=for-the-badge&logo=pandas&logoColor=%23150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23171717.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%23171717.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23171717.svg?style=for-the-badge&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/Keras-%23171717.svg?style=for-the-badge&logo=Keras)
+![OpenCV](https://img.shields.io/badge/opencv-%23171717.svg?style=for-the-badge&logo=opencv)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23171717.svg?style=for-the-badge&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/numpy-%23171717.svg?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/pandas-%23171717.svg?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23171717.svg?style=for-the-badge&logo=Matplotlib)
+![SciPy](https://img.shields.io/badge/SciPy-%23171717.svg?style=for-the-badge&logo=scipy)
 
 </td>
 <td width="50%">
 
 ### 🗄️ Databases & Version Control
-![MongoDB](https://img.shields.io/badge/MongoDB-%23171717.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)
-![MySQL](https://img.shields.io/badge/mysql-%23171717.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1)
-![Firebase](https://img.shields.io/badge/firebase-%23171717.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28)
-![Git](https://img.shields.io/badge/git-%23171717.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
-![GitHub](https://img.shields.io/badge/github-%23171717.svg?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23171717.svg?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-%23171717.svg?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/firebase-%23171717.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23171717.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-%23171717.svg?style=for-the-badge&logo=github)
 
 </td>
 </tr>
