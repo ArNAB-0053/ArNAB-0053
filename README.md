@@ -71,7 +71,7 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 
 <div align="center">
   
-### 🌟 *"I may not know the extent of my talent, but I know I am a hardworker ready to embrace any challenge that comes my way"* - Arnab Bhattacharyya
+### 🌟 *"I'm not sure how talented I really am, but one thing I know for sure—I work hard and I'm always ready to face any challenge that comes my way."*
 
 <img src="https://komarev.com/ghpvc/?username=ArNAB-0053&label=Profile%20Views&color=6B76F7&style=flat" alt="Profile Views" />
 
