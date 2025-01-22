@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6B76F7&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;ML+Enthusiast;B-Tech+Student" alt="Typing SVG" />
 </p>
 
-> *Code. Innovate. Inspire.* 🚀
+> *"I'm not sure how talented I really am, but one thing I know for sure—I work hard and I'm always ready to face any challenge that comes my way."* - *Me*
 
 </div>
 
@@ -92,7 +92,7 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 
 <div align="center">
   
-### 🌟 *"I'm not sure how talented I really am, but one thing I know for sure—I work hard and I'm always ready to face any challenge that comes my way."* - *Me*
+<!-- ### 🌟 *"I'm not sure how talented I really am, but one thing I know for sure—I work hard and I'm always ready to face any challenge that comes my way."* - *Me* -->
 
 <!-- <img src="https://komarev.com/ghpvc/?username=ArNAB-0053&label=Profile%20Views&color=6B76F7&style=flat" alt="Profile Views" /> -->
 
