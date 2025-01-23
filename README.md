@@ -11,7 +11,7 @@
 
 <div align="center" style="padding: 0 40px;">
 
-> &nbsp;&nbsp;&nbsp;&nbsp; *"I'm not sure how talented I really am, but one thing I know for sure—I work hard and I'm always ready to face any challenge that comes my way."* — *Me* &nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp; *"I'm not sure how talented I really am, but one thing I know for sure—I work hard and I'm always ready to face any challenge that comes my way."* &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
