@@ -31,12 +31,15 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 
 </div>
 
+
 ## 💫 Technologies and Tools
+
 <table>
 <tr>
 <td width="50%">
 
 ### 🎯 Languages
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -88,12 +91,11 @@ I'm a passionate Web Developer and Machine Learning enthusiast from India, curre
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArNAB-0053&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArNAB-0053&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats" />
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArNAB-0053&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArNAB-0053&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArNAB-0053&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&&hide=tex&langs_count=10&layout=compact" alt="Top Languages" />
 </div>
 
 ---
