@@ -18,7 +18,7 @@
 
 <div align="center" style="padding: 0 40px;">
 
-> &nbsp;&nbsp;&nbsp;&nbsp; *"I'm not sure how talented I really am, but one thing I know for sure—I work hard and I'm always ready to face any challenge that comes my way."* &nbsp;&nbsp;&nbsp;&nbsp;
+> &nbsp;&nbsp;&nbsp;&nbsp; *"I don't know how talented I am, but I know I can catch up by working hard enough."* &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
